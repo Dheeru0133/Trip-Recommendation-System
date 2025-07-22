@@ -112,5 +112,6 @@ websocket-client==1.5.1
 Werkzeug==2.3.6
 widgetsnbextension==4.0.7
 Flask
+setuptools>=65.5.0
 gunicorn
 
